@@ -2,7 +2,7 @@ from mody import Mody
 import requests
 import telebot
 from telebot import types
-from elhyba import Tele 
+from ELHYBA import Tele 
 token = Mody.ELHYBA
 bot=telebot.TeleBot(token,parse_mode="HTML")
 
